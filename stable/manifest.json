@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-18T04:56:18+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.19.2/qosha-layer.zip",
+     "sha256": "06144f8c6096810017ccae48f9a2286a8d8a0ec56a6a2dff74dea99686166544",
+     "size": 7343039
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Sign in to Gemini and Google from inside Qosha, choose the effort level in Chat, send while Qosha is answering, and Qosha tells you when a website needs you to sign in.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.19.2"
+  },
+  {
    "created": "2026-11-18T04:32:14+00:00",
    "files": [
     {
@@ -15,6 +32,7 @@
    ],
    "min_engine": "0.23.2",
    "notes": "Sign in to Gemini and Google from inside Qosha, choose the effort level in Chat, send while Qosha is answering, and Qosha tells you when a website needs you to sign in.",
+   "paused": true,
    "rings": [
     "ren-mac"
    ],
@@ -39,5 +57,5 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-18T04:32:14+00:00"
+ "updated": "2026-11-18T04:56:27+00:00"
 }
