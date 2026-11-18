@@ -16,7 +16,8 @@
    "min_engine": "0.23.2",
    "notes": "Voice is ready as soon as Qosha starts, so the first spoken answer is as quick as the rest. Updates restart Qosha on its own address.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.19.5"
   },
@@ -111,7 +112,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-18T15:20:32+00:00",
+ "updated": "2026-11-18T15:36:02+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
