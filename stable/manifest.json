@@ -16,7 +16,8 @@
    "min_engine": "0.23.2",
    "notes": "Talk on Home is now hands-free: press it once and just talk. Qosha hears when you stop and reads the answer aloud as it writes it. Update checks retry sooner after a failed check.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.19.4"
   },
@@ -92,7 +93,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-18T05:39:31+00:00",
+ "updated": "2026-11-18T14:05:40+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
