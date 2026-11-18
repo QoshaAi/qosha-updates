@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-18T19:17:15+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.19.6/qosha-layer.zip",
+     "sha256": "277a1e2f4c3b000662c566240caac26592711d514bb337a82f3a2313617a2f78",
+     "size": 7344799
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Connect Google now finishes on a new install: Qosha saves your Google sign-in itself.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.19.6"
+  },
+  {
    "created": "2026-11-18T15:20:32+00:00",
    "files": [
     {
@@ -93,27 +110,10 @@
     "ren-mac"
    ],
    "version": "1.19.1"
-  },
-  {
-   "created": "2026-11-18T00:23:07+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.19.0/qosha-layer.zip",
-     "sha256": "29a0451b6c65405ec05ff9b20b9f158ffb0c6024696f46cfeaac3e4722a2ec45",
-     "size": 7314256
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Welcome questions on Home, plainer approval cards, image reading by your other AI, and Drive uploads from your computer.",
-   "rings": [
-    "ren-mac"
-   ],
-   "version": "1.19.0"
   }
  ],
  "schema": 1,
- "updated": "2026-11-18T15:44:45+00:00",
+ "updated": "2026-11-18T19:17:15+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
