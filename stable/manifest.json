@@ -1,0 +1,26 @@
+{
+ "channel": "stable",
+ "paused": false,
+ "product": "qosha",
+ "releases": [
+  {
+   "created": "2026-11-18T00:23:07+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.19.0/qosha-layer.zip",
+     "sha256": "29a0451b6c65405ec05ff9b20b9f158ffb0c6024696f46cfeaac3e4722a2ec45",
+     "size": 7314256
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Welcome questions on Home, plainer approval cards, image reading by your other AI, and Drive uploads from your computer.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.19.0"
+  }
+ ],
+ "schema": 1,
+ "updated": "2026-11-18T00:23:07+00:00"
+}
