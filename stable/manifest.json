@@ -16,7 +16,8 @@
    "min_engine": "0.23.2",
    "notes": "Sign in to Gemini and Google from inside Qosha, choose the effort level in Chat, send while Qosha is answering, and Qosha tells you when a website needs you to sign in.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.19.2"
   },
@@ -57,5 +58,17 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-18T04:56:27+00:00"
+ "updated": "2026-11-18T05:16:39+00:00",
+ "upgrade": {
+  "upgrade-qosha.ps1": {
+   "path": "upgrade/upgrade-qosha.ps1",
+   "sha256": "dc4a40c160070353820d00ae6446551da78aa66c14e44fe61b60440bd63fd050",
+   "size": 17480
+  },
+  "upgrade-qosha.sh": {
+   "path": "upgrade/upgrade-qosha.sh",
+   "sha256": "073a4c1bd8e9bdb66a96852afc118e7f75573d811a7d13de3ce05aaf65488053",
+   "size": 13252
+  }
+ }
 }
