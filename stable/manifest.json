@@ -17,7 +17,8 @@
    "notes": "Voice is ready as soon as Qosha starts, so the first spoken answer is as quick as the rest. Updates restart Qosha on its own address.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.19.5"
   },
@@ -112,7 +113,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-18T15:36:02+00:00",
+ "updated": "2026-11-18T15:44:45+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
