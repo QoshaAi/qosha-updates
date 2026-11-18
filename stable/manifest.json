@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-18T15:20:32+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.19.5/qosha-layer.zip",
+     "sha256": "0c43c63407f5b4680e78373893130c7cf4cb01fb740e63b50d50bd280639f9ae",
+     "size": 7344242
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Voice is ready as soon as Qosha starts, so the first spoken answer is as quick as the rest. Updates restart Qosha on its own address.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.19.5"
+  },
+  {
    "created": "2026-11-18T05:39:31+00:00",
    "files": [
     {
@@ -94,7 +111,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-18T14:15:26+00:00",
+ "updated": "2026-11-18T15:20:32+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
