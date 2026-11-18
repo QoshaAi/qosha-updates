@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-18T05:39:31+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.19.4/qosha-layer.zip",
+     "sha256": "72ee7536a872f9fc03c7d46920e57a3f729694486429ca37e22cc720df13bfc3",
+     "size": 7343884
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Talk on Home is now hands-free: press it once and just talk. Qosha hears when you stop and reads the answer aloud as it writes it. Update checks retry sooner after a failed check.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.19.4"
+  },
+  {
    "created": "2026-11-18T05:33:30+00:00",
    "files": [
     {
@@ -75,7 +92,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-18T05:33:30+00:00",
+ "updated": "2026-11-18T05:39:31+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
