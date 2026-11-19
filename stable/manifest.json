@@ -55,7 +55,8 @@
    "notes": "Your own words stay exactly as you type them. Gemini answers can no longer run commands or searches on your computer, and its errors are in plain words.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.19.11"
   },
@@ -306,7 +307,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-19T13:50:29+00:00",
+ "updated": "2026-11-19T13:55:49+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
