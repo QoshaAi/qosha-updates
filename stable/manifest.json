@@ -55,7 +55,8 @@
    "notes": "Fixes updates on Windows: Qosha can update itself again after 1.19.8.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.19.10"
   },
@@ -268,7 +269,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-19T03:25:55+00:00",
+ "updated": "2026-11-19T03:31:45+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
