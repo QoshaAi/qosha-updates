@@ -54,7 +54,8 @@
    "min_engine": "0.23.2",
    "notes": "Gemini works out of the box: Qosha installs Google's Gemini tool itself, checks it daily and can repair it.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.19.7"
   },
@@ -152,7 +153,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-19T00:46:09+00:00",
+ "updated": "2026-11-19T00:49:41+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
