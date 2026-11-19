@@ -55,7 +55,8 @@
    "notes": "Updates keep the changes you or Qosha made to its screens, never restart Qosha mid-answer, and Send now stops the answer to send your message.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.19.8"
   },
@@ -191,7 +192,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-19T02:33:31+00:00",
+ "updated": "2026-11-19T02:39:04+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
