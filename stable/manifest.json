@@ -55,7 +55,8 @@
    "notes": "Safer approvals: anything that sends data to a website now always asks you first (no 'Always allow' for websites).",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.19.12"
   },
@@ -344,7 +345,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-19T21:28:29+00:00",
+ "updated": "2026-11-19T21:34:15+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
