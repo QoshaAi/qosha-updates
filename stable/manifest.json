@@ -54,7 +54,8 @@
    "min_engine": "0.23.2",
    "notes": "Safer approvals: anything that sends data to a website now always asks you first (no 'Always allow' for websites).",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.19.12"
   },
@@ -343,7 +344,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-19T21:27:46+00:00",
+ "updated": "2026-11-19T21:28:29+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
