@@ -17,7 +17,8 @@
    "notes": "Connect Google now finishes on a new install: Qosha saves your Google sign-in itself.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.19.6"
   },
@@ -114,7 +115,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-19T00:33:24+00:00",
+ "updated": "2026-11-19T00:39:11+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
