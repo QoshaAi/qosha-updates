@@ -21,7 +21,8 @@
    "notes": "Inbox watch: Qosha checks your email on its own and notifies you only about mail that needs you; the rest goes in a digest on Home. Change it in Settings.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.3"
   },
@@ -311,7 +312,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-21T18:52:41+00:00",
+ "updated": "2026-11-21T19:01:02+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
