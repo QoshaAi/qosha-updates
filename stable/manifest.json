@@ -55,7 +55,8 @@
    "notes": "Pictures and videos in chat; Allow cards for Google Chat and Slack; no surprise Gemini sign-ins; nightly backup; automatic updates when Qosha is idle.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.2"
   },
@@ -345,7 +346,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-21T06:50:36+00:00",
+ "updated": "2026-11-21T06:56:02+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
