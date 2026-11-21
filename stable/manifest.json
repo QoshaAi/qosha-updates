@@ -59,7 +59,8 @@
    "notes": "Qosha's messages say only Qosha, the wake word is Hey Qosha, Google tools ask before deleting or sharing, and Home offers Always allow only where it applies.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.4"
   },
@@ -311,7 +312,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-21T21:47:29+00:00",
+ "updated": "2026-11-21T21:49:37+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
