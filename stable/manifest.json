@@ -1,4 +1,8 @@
 {
+ "auto_rings": [
+  "renato",
+  "everyone"
+ ],
  "channel": "stable",
  "paused": false,
  "product": "qosha",
@@ -346,7 +350,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-21T06:56:02+00:00",
+ "updated": "2026-11-21T07:00:40+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
