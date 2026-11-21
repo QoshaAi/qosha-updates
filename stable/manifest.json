@@ -42,6 +42,61 @@
     "url_template": "https://github.com/google-antigravity/antigravity-cli/releases/download/{version}/{file}",
     "version": "1.5.11"
    },
+   "created": "2026-11-21T05:24:12+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.1/qosha-layer.zip",
+     "sha256": "222fcf23d3e997bb5bda4fc4b8377e649528295399e77809bfcc6c658d706058",
+     "size": 7431251
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Access checks tightened: Home stops reading Gmail the moment access ends; the first message checks access; backups never overwritten; night updates only in the night window.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.1"
+  },
+  {
+   "agy": {
+    "assets": {
+     "mac_arm64": {
+      "binary_sha256": "62f2102784bb74b7743ce31f45e8414f1111dc99efb395a9e62690af0336c677",
+      "binary_size": 226097264,
+      "file": "agy_cli_mac_arm64.tar.gz",
+      "member": "antigravity",
+      "sha256": "74d7eed163e25a77f159b1e595a0e17dd8834ed540f8df6125d1889a7c886774",
+      "size": 85142629
+     },
+     "mac_x64": {
+      "binary_sha256": "19019775e6f10a6e2178991fc24b30540d1d03bb300bc3eea35fb4f9478dcfbd",
+      "binary_size": 235085392,
+      "file": "agy_cli_mac_x64.tar.gz",
+      "member": "antigravity",
+      "sha256": "7356cde52023065071dcc1c13b02ed2dd2a1de6cc2907c9dfdb03425566b47ce",
+      "size": 90664657
+     },
+     "windows_arm64": {
+      "binary_sha256": "3cac8b1f72124d07b51c663bc71fa3cc9d600b330545832643581024a867628d",
+      "binary_size": 222972056,
+      "file": "agy_cli_windows_arm64.zip",
+      "member": "antigravity.exe",
+      "sha256": "46e696bca6f030dd6938566a4792c932047a756e5439f48b1a67a12da92012d3",
+      "size": 76358269
+     },
+     "windows_x64": {
+      "binary_sha256": "ed551fe4732716409f377cfdb402f419e9a5bdb1ef94fef2c84a36fcf360386d",
+      "binary_size": 234827416,
+      "file": "agy_cli_windows_x64.zip",
+      "member": "antigravity.exe",
+      "sha256": "b03c00321ad51ff4a4dff6c1f37fdfd219aa1f098f7dfcd19959122c03044a92",
+      "size": 82210106
+     }
+    },
+    "url_template": "https://github.com/google-antigravity/antigravity-cli/releases/download/{version}/{file}",
+    "version": "1.5.11"
+   },
    "created": "2026-11-21T04:57:48+00:00",
    "files": [
     {
@@ -286,66 +341,10 @@
     "renato"
    ],
    "version": "1.19.10"
-  },
-  {
-   "agy": {
-    "assets": {
-     "mac_arm64": {
-      "binary_sha256": "62f2102784bb74b7743ce31f45e8414f1111dc99efb395a9e62690af0336c677",
-      "binary_size": 226097264,
-      "file": "agy_cli_mac_arm64.tar.gz",
-      "member": "antigravity",
-      "sha256": "74d7eed163e25a77f159b1e595a0e17dd8834ed540f8df6125d1889a7c886774",
-      "size": 85142629
-     },
-     "mac_x64": {
-      "binary_sha256": "19019775e6f10a6e2178991fc24b30540d1d03bb300bc3eea35fb4f9478dcfbd",
-      "binary_size": 235085392,
-      "file": "agy_cli_mac_x64.tar.gz",
-      "member": "antigravity",
-      "sha256": "7356cde52023065071dcc1c13b02ed2dd2a1de6cc2907c9dfdb03425566b47ce",
-      "size": 90664657
-     },
-     "windows_arm64": {
-      "binary_sha256": "3cac8b1f72124d07b51c663bc71fa3cc9d600b330545832643581024a867628d",
-      "binary_size": 222972056,
-      "file": "agy_cli_windows_arm64.zip",
-      "member": "antigravity.exe",
-      "sha256": "46e696bca6f030dd6938566a4792c932047a756e5439f48b1a67a12da92012d3",
-      "size": 76358269
-     },
-     "windows_x64": {
-      "binary_sha256": "ed551fe4732716409f377cfdb402f419e9a5bdb1ef94fef2c84a36fcf360386d",
-      "binary_size": 234827416,
-      "file": "agy_cli_windows_x64.zip",
-      "member": "antigravity.exe",
-      "sha256": "b03c00321ad51ff4a4dff6c1f37fdfd219aa1f098f7dfcd19959122c03044a92",
-      "size": 82210106
-     }
-    },
-    "url_template": "https://github.com/google-antigravity/antigravity-cli/releases/download/{version}/{file}",
-    "version": "1.5.11"
-   },
-   "created": "2026-11-19T03:10:50+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.19.9/qosha-layer.zip",
-     "sha256": "87e36366e3cbc9f3b62db6b3f7f10bf121734099387d742c55b8436c275f10a7",
-     "size": 7377535
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "A small maintenance update: nothing changes on your screen.",
-   "rings": [
-    "ren-mac",
-    "test-pc"
-   ],
-   "version": "1.19.9"
   }
  ],
  "schema": 1,
- "updated": "2026-11-21T04:58:40+00:00",
+ "updated": "2026-11-21T05:24:12+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
