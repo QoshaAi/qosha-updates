@@ -55,7 +55,8 @@
    "notes": "Email sends work from chat again: Qosha sends with the Gmail send tool and shows the Allow card (never 'approval isn't available'). Right-click menu (Cut, Copy, Paste) in the app.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.19.13"
   },
@@ -345,7 +346,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-21T01:32:19+00:00",
+ "updated": "2026-11-21T01:34:51+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
