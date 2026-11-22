@@ -1,357 +1,81 @@
 {
- "auto_rings": [
-  "renato",
-  "everyone"
- ],
  "channel": "stable",
  "paused": false,
  "product": "qosha",
  "releases": [
   {
-   "agy": {
-    "assets": {
-     "mac_arm64": {
-      "binary_sha256": "e8c2959bf4744580d0e5b8f938ec2dc3918a942b620a6262e53856400f14e5fb",
-      "binary_size": 229152672,
-      "file": "agy_cli_mac_arm64.tar.gz",
-      "member": "antigravity",
-      "sha256": "b01bdd4591e13ddfcb0e049bea74ae9f83e80829adcf64aaa58f5bfb1a425a54",
-      "size": 85943943
-     },
-     "mac_x64": {
-      "binary_sha256": "5f3832bb8e391820bb895a08d1f837bb9e1714d48cd5ba31edf9286af6e9ea21",
-      "binary_size": 238884352,
-      "file": "agy_cli_mac_x64.tar.gz",
-      "member": "antigravity",
-      "sha256": "c142141141cbaa93f4e46904b76341e349f3f2b78445f877f39468dfe60dda1e",
-      "size": 91613810
-     },
-     "windows_arm64": {
-      "binary_sha256": "fbb00e7c0449388f62cf9e03b1257b7f81bc450a1bbfebb370267ec8e4b35c83",
-      "binary_size": 226082456,
-      "file": "agy_cli_windows_arm64.zip",
-      "member": "antigravity.exe",
-      "sha256": "6259a554b36a47d0212928784cf82ca3d174916fd240420ab955bc1339b686c8",
-      "size": 77181570
-     },
-     "windows_x64": {
-      "binary_sha256": "34352ef15084b2d6c71bcc6e95a232425203223245e5cae82343d69495c3bd42",
-      "binary_size": 238615704,
-      "file": "agy_cli_windows_x64.zip",
-      "member": "antigravity.exe",
-      "sha256": "144b37d27595ca1ab6b19b9f365e9ee66fb8cc95c020b541858d8947e02daf3f",
-      "size": 83143817
-     }
-    },
-    "url_template": "https://github.com/google-antigravity/antigravity-cli/releases/download/{version}/{file}",
-    "version": "1.5.14"
-   },
-   "created": "2026-11-22T19:11:59+00:00",
+   "created": "2026-11-22T23:12:58+00:00",
    "files": [
     {
      "name": "qosha-layer.zip",
-     "path": "files/1.20.15/qosha-layer.zip",
-     "sha256": "b071f16d2d0ca1a6d46c19c500a8724f43441c5fa201dee6d7b291a69426dadd",
-     "size": 7589361
+     "path": "files/1.20.16/qosha-layer.zip",
+     "sha256": "02de5c6b391637cb5004f60c28914f01daf698704277f2a8f6b6fd1c28c3ee1a",
+     "size": 7594402
     }
    ],
    "min_engine": "0.23.2",
-   "notes": "Qosha's words on the sign-in and 'unavailable' pages; no engine or maker name left in themes, the metrics banner, the restart warning or the catalogs",
+   "notes": "Qosha 1.20.16: the AI engine maker's own provider is no longer offered on computers that don't use it; honest billing wording",
    "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
+    "ren-mac"
    ],
-   "version": "1.20.15"
+   "version": "1.20.16"
   },
   {
-   "agy": {
-    "assets": {
-     "mac_arm64": {
-      "binary_sha256": "e8c2959bf4744580d0e5b8f938ec2dc3918a942b620a6262e53856400f14e5fb",
-      "binary_size": 229152672,
-      "file": "agy_cli_mac_arm64.tar.gz",
-      "member": "antigravity",
-      "sha256": "b01bdd4591e13ddfcb0e049bea74ae9f83e80829adcf64aaa58f5bfb1a425a54",
-      "size": 85943943
-     },
-     "mac_x64": {
-      "binary_sha256": "5f3832bb8e391820bb895a08d1f837bb9e1714d48cd5ba31edf9286af6e9ea21",
-      "binary_size": 238884352,
-      "file": "agy_cli_mac_x64.tar.gz",
-      "member": "antigravity",
-      "sha256": "c142141141cbaa93f4e46904b76341e349f3f2b78445f877f39468dfe60dda1e",
-      "size": 91613810
-     },
-     "windows_arm64": {
-      "binary_sha256": "fbb00e7c0449388f62cf9e03b1257b7f81bc450a1bbfebb370267ec8e4b35c83",
-      "binary_size": 226082456,
-      "file": "agy_cli_windows_arm64.zip",
-      "member": "antigravity.exe",
-      "sha256": "6259a554b36a47d0212928784cf82ca3d174916fd240420ab955bc1339b686c8",
-      "size": 77181570
-     },
-     "windows_x64": {
-      "binary_sha256": "34352ef15084b2d6c71bcc6e95a232425203223245e5cae82343d69495c3bd42",
-      "binary_size": 238615704,
-      "file": "agy_cli_windows_x64.zip",
-      "member": "antigravity.exe",
-      "sha256": "144b37d27595ca1ab6b19b9f365e9ee66fb8cc95c020b541858d8947e02daf3f",
-      "size": 83143817
-     }
-    },
-    "url_template": "https://github.com/google-antigravity/antigravity-cli/releases/download/{version}/{file}",
-    "version": "1.5.14"
-   },
-   "created": "2026-11-22T18:01:58+00:00",
+   "created": "2026-11-18T04:56:18+00:00",
    "files": [
     {
      "name": "qosha-layer.zip",
-     "path": "files/1.20.14/qosha-layer.zip",
-     "sha256": "0f1f492f962d1a91c80dfa22955eedb973d51734f83ffd932b96c9a57822353d",
-     "size": 7584783
+     "path": "files/1.19.2/qosha-layer.zip",
+     "sha256": "06144f8c6096810017ccae48f9a2286a8d8a0ec56a6a2dff74dea99686166544",
+     "size": 7343039
     }
    ],
    "min_engine": "0.23.2",
-   "notes": "Qosha keeps its own look: if anything puts the engine's screens back, Qosha restores its own within a minute; no engine or maker name in the screens or the chat terminal",
+   "notes": "Sign in to Gemini and Google from inside Qosha, choose the effort level in Chat, send while Qosha is answering, and Qosha tells you when a website needs you to sign in.",
    "rings": [
     "ren-mac",
-    "test-pc",
-    "renato"
+    "test-pc"
    ],
-   "version": "1.20.14"
+   "version": "1.19.2"
   },
   {
-   "agy": {
-    "assets": {
-     "mac_arm64": {
-      "binary_sha256": "e8c2959bf4744580d0e5b8f938ec2dc3918a942b620a6262e53856400f14e5fb",
-      "binary_size": 229152672,
-      "file": "agy_cli_mac_arm64.tar.gz",
-      "member": "antigravity",
-      "sha256": "b01bdd4591e13ddfcb0e049bea74ae9f83e80829adcf64aaa58f5bfb1a425a54",
-      "size": 85943943
-     },
-     "mac_x64": {
-      "binary_sha256": "5f3832bb8e391820bb895a08d1f837bb9e1714d48cd5ba31edf9286af6e9ea21",
-      "binary_size": 238884352,
-      "file": "agy_cli_mac_x64.tar.gz",
-      "member": "antigravity",
-      "sha256": "c142141141cbaa93f4e46904b76341e349f3f2b78445f877f39468dfe60dda1e",
-      "size": 91613810
-     },
-     "windows_arm64": {
-      "binary_sha256": "fbb00e7c0449388f62cf9e03b1257b7f81bc450a1bbfebb370267ec8e4b35c83",
-      "binary_size": 226082456,
-      "file": "agy_cli_windows_arm64.zip",
-      "member": "antigravity.exe",
-      "sha256": "6259a554b36a47d0212928784cf82ca3d174916fd240420ab955bc1339b686c8",
-      "size": 77181570
-     },
-     "windows_x64": {
-      "binary_sha256": "34352ef15084b2d6c71bcc6e95a232425203223245e5cae82343d69495c3bd42",
-      "binary_size": 238615704,
-      "file": "agy_cli_windows_x64.zip",
-      "member": "antigravity.exe",
-      "sha256": "144b37d27595ca1ab6b19b9f365e9ee66fb8cc95c020b541858d8947e02daf3f",
-      "size": 83143817
-     }
-    },
-    "url_template": "https://github.com/google-antigravity/antigravity-cli/releases/download/{version}/{file}",
-    "version": "1.5.14"
-   },
-   "created": "2026-11-22T16:33:50+00:00",
+   "created": "2026-11-18T04:32:14+00:00",
    "files": [
     {
      "name": "qosha-layer.zip",
-     "path": "files/1.20.13/qosha-layer.zip",
-     "sha256": "ede51fc9d4360fa52b29cc64faee70665cc39c21300b0d6e2d57957249865eec",
-     "size": 7579856
+     "path": "files/1.19.1/qosha-layer.zip",
+     "sha256": "6b21df593c3fc43c698a74dd7ed2ae01b50452f7f39a71e990cdd5a824a8b847",
+     "size": 7342942
     }
    ],
    "min_engine": "0.23.2",
-   "notes": "Qosha's name from the very first frame: the engine's brand words in the screens and its theme names say Qosha; Home says 'Approvals are paused' when the approval check is down",
+   "notes": "Sign in to Gemini and Google from inside Qosha, choose the effort level in Chat, send while Qosha is answering, and Qosha tells you when a website needs you to sign in.",
+   "paused": true,
    "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
+    "ren-mac"
    ],
-   "version": "1.20.13"
+   "version": "1.19.1"
   },
   {
-   "agy": {
-    "assets": {
-     "mac_arm64": {
-      "binary_sha256": "e8c2959bf4744580d0e5b8f938ec2dc3918a942b620a6262e53856400f14e5fb",
-      "binary_size": 229152672,
-      "file": "agy_cli_mac_arm64.tar.gz",
-      "member": "antigravity",
-      "sha256": "b01bdd4591e13ddfcb0e049bea74ae9f83e80829adcf64aaa58f5bfb1a425a54",
-      "size": 85943943
-     },
-     "mac_x64": {
-      "binary_sha256": "5f3832bb8e391820bb895a08d1f837bb9e1714d48cd5ba31edf9286af6e9ea21",
-      "binary_size": 238884352,
-      "file": "agy_cli_mac_x64.tar.gz",
-      "member": "antigravity",
-      "sha256": "c142141141cbaa93f4e46904b76341e349f3f2b78445f877f39468dfe60dda1e",
-      "size": 91613810
-     },
-     "windows_arm64": {
-      "binary_sha256": "fbb00e7c0449388f62cf9e03b1257b7f81bc450a1bbfebb370267ec8e4b35c83",
-      "binary_size": 226082456,
-      "file": "agy_cli_windows_arm64.zip",
-      "member": "antigravity.exe",
-      "sha256": "6259a554b36a47d0212928784cf82ca3d174916fd240420ab955bc1339b686c8",
-      "size": 77181570
-     },
-     "windows_x64": {
-      "binary_sha256": "34352ef15084b2d6c71bcc6e95a232425203223245e5cae82343d69495c3bd42",
-      "binary_size": 238615704,
-      "file": "agy_cli_windows_x64.zip",
-      "member": "antigravity.exe",
-      "sha256": "144b37d27595ca1ab6b19b9f365e9ee66fb8cc95c020b541858d8947e02daf3f",
-      "size": 83143817
-     }
-    },
-    "url_template": "https://github.com/google-antigravity/antigravity-cli/releases/download/{version}/{file}",
-    "version": "1.5.14"
-   },
-   "created": "2026-11-22T14:31:51+00:00",
+   "created": "2026-11-18T00:23:07+00:00",
    "files": [
     {
      "name": "qosha-layer.zip",
-     "path": "files/1.20.12/qosha-layer.zip",
-     "sha256": "9473dcb2a33aad54e00ae7ac147098b3d34bd598d409f55ad8ed758972f4ba23",
-     "size": 7576947
+     "path": "files/1.19.0/qosha-layer.zip",
+     "sha256": "29a0451b6c65405ec05ff9b20b9f158ffb0c6024696f46cfeaac3e4722a2ec45",
+     "size": 7314256
     }
    ],
    "min_engine": "0.23.2",
-   "notes": "If Qosha's approval check fails to start, approvals stay refused and Qosha says so; a browser tab can't erase chat history or confirm a model's cost",
+   "notes": "Welcome questions on Home, plainer approval cards, image reading by your other AI, and Drive uploads from your computer.",
    "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
+    "ren-mac"
    ],
-   "version": "1.20.12"
-  },
-  {
-   "agy": {
-    "assets": {
-     "mac_arm64": {
-      "binary_sha256": "e8c2959bf4744580d0e5b8f938ec2dc3918a942b620a6262e53856400f14e5fb",
-      "binary_size": 229152672,
-      "file": "agy_cli_mac_arm64.tar.gz",
-      "member": "antigravity",
-      "sha256": "b01bdd4591e13ddfcb0e049bea74ae9f83e80829adcf64aaa58f5bfb1a425a54",
-      "size": 85943943
-     },
-     "mac_x64": {
-      "binary_sha256": "5f3832bb8e391820bb895a08d1f837bb9e1714d48cd5ba31edf9286af6e9ea21",
-      "binary_size": 238884352,
-      "file": "agy_cli_mac_x64.tar.gz",
-      "member": "antigravity",
-      "sha256": "c142141141cbaa93f4e46904b76341e349f3f2b78445f877f39468dfe60dda1e",
-      "size": 91613810
-     },
-     "windows_arm64": {
-      "binary_sha256": "fbb00e7c0449388f62cf9e03b1257b7f81bc450a1bbfebb370267ec8e4b35c83",
-      "binary_size": 226082456,
-      "file": "agy_cli_windows_arm64.zip",
-      "member": "antigravity.exe",
-      "sha256": "6259a554b36a47d0212928784cf82ca3d174916fd240420ab955bc1339b686c8",
-      "size": 77181570
-     },
-     "windows_x64": {
-      "binary_sha256": "34352ef15084b2d6c71bcc6e95a232425203223245e5cae82343d69495c3bd42",
-      "binary_size": 238615704,
-      "file": "agy_cli_windows_x64.zip",
-      "member": "antigravity.exe",
-      "sha256": "144b37d27595ca1ab6b19b9f365e9ee66fb8cc95c020b541858d8947e02daf3f",
-      "size": 83143817
-     }
-    },
-    "url_template": "https://github.com/google-antigravity/antigravity-cli/releases/download/{version}/{file}",
-    "version": "1.5.14"
-   },
-   "created": "2026-11-22T10:32:33+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.11/qosha-layer.zip",
-     "sha256": "cb4078148cfed7d829defd1f275d174b3d92c254c2fada56336cf8bbe1841cc3",
-     "size": 7567676
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Every approval promise says when Always allow skips it; answers show only once Qosha confirms; old backups lose sign-ins and become owner-only",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
-   ],
-   "version": "1.20.11"
-  },
-  {
-   "agy": {
-    "assets": {
-     "mac_arm64": {
-      "binary_sha256": "e8c2959bf4744580d0e5b8f938ec2dc3918a942b620a6262e53856400f14e5fb",
-      "binary_size": 229152672,
-      "file": "agy_cli_mac_arm64.tar.gz",
-      "member": "antigravity",
-      "sha256": "b01bdd4591e13ddfcb0e049bea74ae9f83e80829adcf64aaa58f5bfb1a425a54",
-      "size": 85943943
-     },
-     "mac_x64": {
-      "binary_sha256": "5f3832bb8e391820bb895a08d1f837bb9e1714d48cd5ba31edf9286af6e9ea21",
-      "binary_size": 238884352,
-      "file": "agy_cli_mac_x64.tar.gz",
-      "member": "antigravity",
-      "sha256": "c142141141cbaa93f4e46904b76341e349f3f2b78445f877f39468dfe60dda1e",
-      "size": 91613810
-     },
-     "windows_arm64": {
-      "binary_sha256": "fbb00e7c0449388f62cf9e03b1257b7f81bc450a1bbfebb370267ec8e4b35c83",
-      "binary_size": 226082456,
-      "file": "agy_cli_windows_arm64.zip",
-      "member": "antigravity.exe",
-      "sha256": "6259a554b36a47d0212928784cf82ca3d174916fd240420ab955bc1339b686c8",
-      "size": 77181570
-     },
-     "windows_x64": {
-      "binary_sha256": "34352ef15084b2d6c71bcc6e95a232425203223245e5cae82343d69495c3bd42",
-      "binary_size": 238615704,
-      "file": "agy_cli_windows_x64.zip",
-      "member": "antigravity.exe",
-      "sha256": "144b37d27595ca1ab6b19b9f365e9ee66fb8cc95c020b541858d8947e02daf3f",
-      "size": 83143817
-     }
-    },
-    "url_template": "https://github.com/google-antigravity/antigravity-cli/releases/download/{version}/{file}",
-    "version": "1.5.14"
-   },
-   "created": "2026-11-22T09:53:38+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.10/qosha-layer.zip",
-     "sha256": "03e3ae9a3ccd451296662e16343119f445ce2ca0f075902ca932916e0da142e9",
-     "size": 7564880
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Safety update: Qosha's approval checks hold on every route and fail safe; nightly backups never keep sign-ins or keys; clearer folder names on cards.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
-   ],
-   "version": "1.20.10"
+   "version": "1.19.0"
   }
  ],
  "schema": 1,
- "updated": "2026-11-22T19:32:00+00:00",
+ "updated": "2026-11-22T23:12:58+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
