@@ -59,7 +59,8 @@
    "notes": "Qosha's name from the very first frame: the engine's brand words in the screens and its theme names say Qosha; Home says 'Approvals are paused' when the approval check is down",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.13"
   },
@@ -350,7 +351,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-22T17:35:12+00:00",
+ "updated": "2026-11-22T17:43:14+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
