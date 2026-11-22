@@ -58,7 +58,8 @@
    "min_engine": "0.23.2",
    "notes": "At a Claude limit, Qosha won't switch to a paid backup AI unless you allow it in Settings, and asks before turning paid AI on. Safer Google steps; app sign-ins say Qosha.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.7"
   },
@@ -311,7 +312,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-22T04:08:07+00:00",
+ "updated": "2026-11-22T04:18:59+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
