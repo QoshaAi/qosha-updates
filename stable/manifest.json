@@ -58,7 +58,8 @@
    "min_engine": "0.23.2",
    "notes": "Settings is a little tidier, and Qosha's background checks are sturdier.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.6"
   },
@@ -311,7 +312,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-22T02:17:30+00:00",
+ "updated": "2026-11-22T02:22:08+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
