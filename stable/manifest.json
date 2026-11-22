@@ -58,7 +58,8 @@
    "min_engine": "0.23.2",
    "notes": "Every approval promise says when Always allow skips it; answers show only once Qosha confirms; old backups lose sign-ins and become owner-only",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.11"
   },
@@ -349,7 +350,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-22T10:32:33+00:00",
+ "updated": "2026-11-22T10:37:09+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
