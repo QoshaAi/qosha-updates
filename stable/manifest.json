@@ -58,7 +58,8 @@
    "min_engine": "0.23.2",
    "notes": "At a Claude usage limit Qosha now stops and says when it resets, instead of using your pay-per-use API key (Settings > Claude usage limit). Inbox watch flags AI trouble.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.5"
   },
@@ -310,7 +311,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-21T22:53:03+00:00",
+ "updated": "2026-11-22T02:12:02+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
