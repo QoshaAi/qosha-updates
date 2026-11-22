@@ -17,7 +17,8 @@
    "notes": "Qosha 1.20.16: the AI engine maker's own provider is no longer offered on computers that don't use it; honest billing wording",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.16"
   },
@@ -76,7 +77,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-22T23:29:32+00:00",
+ "updated": "2026-11-22T23:31:37+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
