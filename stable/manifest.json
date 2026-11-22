@@ -59,7 +59,8 @@
    "notes": "Qosha's words on the sign-in and 'unavailable' pages; no engine or maker name left in themes, the metrics banner, the restart warning or the catalogs",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.15"
   },
@@ -350,7 +351,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-22T19:24:38+00:00",
+ "updated": "2026-11-22T19:32:00+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
