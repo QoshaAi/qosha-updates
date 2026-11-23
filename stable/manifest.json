@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T22:03:53+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.31/qosha-layer.zip",
+     "sha256": "0677d0851df631650aaf13861c655290f632b86ad3a188d9c4737c7590cb0a7c",
+     "size": 25736853
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.31: on some computers an older chat page stayed in place after updates; it is now brought up to date.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.31"
+  },
+  {
    "created": "2026-11-23T20:41:04+00:00",
    "files": [
     {
@@ -94,27 +111,10 @@
     "renato"
    ],
    "version": "1.20.26"
-  },
-  {
-   "created": "2026-11-23T07:39:24+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.25/qosha-layer.zip",
-     "sha256": "5a5cbb1b1a89c369a9d993de1ffdb4c0cc1c04c65c2efff95e694ef4a62d4b9c",
-     "size": 7696894
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.25: the same as 1.20.24 (a second try for computers where 1.20.24 stopped because a sign-in refreshed during the update)",
-   "rings": [
-    "ren-mac"
-   ],
-   "version": "1.20.25"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T20:57:42+00:00",
+ "updated": "2026-11-23T22:03:53+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
