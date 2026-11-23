@@ -17,7 +17,8 @@
    "notes": "Qosha 1.20.21: Google sign-in open to any Gmail account (no company-domain lock), Home's Automations tile in plain words, plain chat labels for the computer-use steps",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.21"
   },
@@ -114,7 +115,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T03:04:48+00:00",
+ "updated": "2026-11-23T03:14:10+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
