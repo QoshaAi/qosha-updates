@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T02:46:59+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.20/qosha-layer.zip",
+     "sha256": "3091384a636c0ba3325fac1db0378f046ff0c33c56e1525893b32e3a58a9fe68",
+     "size": 7634791
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.20: Qosha makes pictures with your connected ChatGPT (or Gemini) and shows them in the chat, saved in your files; no API key",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.20"
+  },
+  {
    "created": "2026-11-23T02:34:46+00:00",
    "files": [
     {
@@ -94,28 +111,10 @@
     "test-pc"
    ],
    "version": "1.19.2"
-  },
-  {
-   "created": "2026-11-18T04:32:14+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.19.1/qosha-layer.zip",
-     "sha256": "6b21df593c3fc43c698a74dd7ed2ae01b50452f7f39a71e990cdd5a824a8b847",
-     "size": 7342942
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Sign in to Gemini and Google from inside Qosha, choose the effort level in Chat, send while Qosha is answering, and Qosha tells you when a website needs you to sign in.",
-   "paused": true,
-   "rings": [
-    "ren-mac"
-   ],
-   "version": "1.19.1"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T02:34:46+00:00",
+ "updated": "2026-11-23T02:46:59+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
