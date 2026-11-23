@@ -17,7 +17,8 @@
    "notes": "Qosha 1.20.18: Qosha's name in saved chats, file names and the chat terminal's messages; only Qosha's languages, with Qosha's English for anything missing",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.18"
   },
@@ -114,7 +115,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T01:33:10+00:00",
+ "updated": "2026-11-23T01:36:03+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
