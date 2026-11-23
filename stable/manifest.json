@@ -17,7 +17,8 @@
    "notes": "Qosha 1.20.27: connect Outlook and WhatsApp; Qosha can create and edit files in your Google Drive, Docs and Sheets (it asks first) and use apps on your computer, asking before anything final.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.27"
   },
@@ -112,7 +113,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T12:10:41+00:00",
+ "updated": "2026-11-23T12:17:29+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
