@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T03:03:30+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.21/qosha-layer.zip",
+     "sha256": "39213a00ca48e8ebfa4b443b5f376bb9dd40e237d3f516c43fb5bc8226598de9",
+     "size": 7643644
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.21: Google sign-in open to any Gmail account (no company-domain lock), Home's Automations tile in plain words, plain chat labels for the computer-use steps",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.21"
+  },
+  {
    "created": "2026-11-23T02:46:59+00:00",
    "files": [
     {
@@ -93,28 +110,10 @@
     "renato"
    ],
    "version": "1.20.16"
-  },
-  {
-   "created": "2026-11-18T04:56:18+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.19.2/qosha-layer.zip",
-     "sha256": "06144f8c6096810017ccae48f9a2286a8d8a0ec56a6a2dff74dea99686166544",
-     "size": 7343039
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Sign in to Gemini and Google from inside Qosha, choose the effort level in Chat, send while Qosha is answering, and Qosha tells you when a website needs you to sign in.",
-   "rings": [
-    "ren-mac",
-    "test-pc"
-   ],
-   "version": "1.19.2"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T02:46:59+00:00",
+ "updated": "2026-11-23T03:03:30+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
