@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T07:39:24+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.25/qosha-layer.zip",
+     "sha256": "5a5cbb1b1a89c369a9d993de1ffdb4c0cc1c04c65c2efff95e694ef4a62d4b9c",
+     "size": 7696894
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.25: the same as 1.20.24 (a second try for computers where 1.20.24 stopped because a sign-in refreshed during the update)",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.25"
+  },
+  {
    "created": "2026-11-23T07:37:12+00:00",
    "files": [
     {
@@ -91,27 +108,10 @@
     "ren-mac"
    ],
    "version": "1.20.20"
-  },
-  {
-   "created": "2026-11-23T02:34:46+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.19/qosha-layer.zip",
-     "sha256": "56288f66ae50c4c2668232ca0083db1ede84f14d4db107e46138a829f4af01fb",
-     "size": 7618550
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.19: Home with Qosha's chat docked on the right, email and meeting peeks (Send and Reschedule through the Allow card), Cmd/Ctrl+J, a drawer on narrow windows",
-   "rings": [
-    "ren-mac"
-   ],
-   "version": "1.20.19"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T07:37:12+00:00",
+ "updated": "2026-11-23T07:39:24+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
