@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T23:12:02+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.33/qosha-layer.zip",
+     "sha256": "709879b2ecc9333046828475695bf82552dd32675872c65fc0562b289b662b0c",
+     "size": 25737850
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.33: the model list in chat shows every model your AI accounts offer again (Fable included), and an older chat page is brought up to date when Qosha starts.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.33"
+  },
+  {
    "created": "2026-11-23T22:47:44+00:00",
    "files": [
     {
@@ -90,29 +107,10 @@
     "test-pc"
    ],
    "version": "1.20.28"
-  },
-  {
-   "created": "2026-11-23T11:36:59+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.27/qosha-layer.zip",
-     "sha256": "4fbe1ee08fb03be4597037d78525ba8420010233509c48aba530109186f62cf8",
-     "size": 25410660
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.27: connect Outlook and WhatsApp; Qosha can create and edit files in your Google Drive, Docs and Sheets (it asks first) and use apps on your computer, asking before anything final.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
-   ],
-   "version": "1.20.27"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T22:47:44+00:00",
+ "updated": "2026-11-23T23:12:02+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
