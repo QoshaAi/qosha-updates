@@ -16,7 +16,8 @@
    "min_engine": "0.23.2",
    "notes": "Qosha 1.20.26: Home needs-you list (Done, Later, Undo), side chat folded, deep research, reload after update, updates survive sign-in refresh",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.26"
   },
@@ -111,7 +112,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T07:49:45+00:00",
+ "updated": "2026-11-23T07:51:33+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
