@@ -14,7 +14,7 @@
     }
    ],
    "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.27: Outlook and WhatsApp not tested live with a real account (Ren: ship without it). Adds Google writes, Outlook/WhatsApp connectors, computer use. 6 Google sign-in edges open to 25 Nov.",
+   "notes": "Qosha 1.20.27: connect Outlook and WhatsApp; Qosha can create and edit files in your Google Drive, Docs and Sheets (it asks first) and use apps on your computer, asking before anything final.",
    "rings": [
     "ren-mac"
    ],
@@ -111,7 +111,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T11:36:59+00:00",
+ "updated": "2026-11-23T12:10:29+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
