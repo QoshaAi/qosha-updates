@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T11:36:59+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.27/qosha-layer.zip",
+     "sha256": "4fbe1ee08fb03be4597037d78525ba8420010233509c48aba530109186f62cf8",
+     "size": 25410660
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.27: Outlook and WhatsApp not tested live with a real account (Ren: ship without it). Adds Google writes, Outlook/WhatsApp connectors, computer use. 6 Google sign-in edges open to 25 Nov.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.27"
+  },
+  {
    "created": "2026-11-23T07:49:45+00:00",
    "files": [
     {
@@ -91,29 +108,10 @@
     "renato"
    ],
    "version": "1.20.22"
-  },
-  {
-   "created": "2026-11-23T03:03:30+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.21/qosha-layer.zip",
-     "sha256": "39213a00ca48e8ebfa4b443b5f376bb9dd40e237d3f516c43fb5bc8226598de9",
-     "size": 7643644
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.21: Google sign-in open to any Gmail account (no company-domain lock), Home's Automations tile in plain words, plain chat labels for the computer-use steps",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
-   ],
-   "version": "1.20.21"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T07:56:51+00:00",
+ "updated": "2026-11-23T11:36:59+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
