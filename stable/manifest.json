@@ -1,5 +1,8 @@
 {
- "auto_rings": [],
+ "auto_rings": [
+  "renato",
+  "everyone"
+ ],
  "channel": "stable",
  "paused": false,
  "product": "qosha",
@@ -18,7 +21,8 @@
    "notes": "Qosha 1.20.33: the model list in chat shows every model your AI accounts offer again (Fable included), and an older chat page is brought up to date when Qosha starts.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.33"
   },
@@ -112,7 +116,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T23:25:23+00:00",
+ "updated": "2026-11-23T23:28:43+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
