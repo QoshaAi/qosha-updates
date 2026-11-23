@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T07:49:45+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.26/qosha-layer.zip",
+     "sha256": "48192a3cdc6d9e38c23ddfc93b7397d690d605a3c5fe9023e44b255ffafde173",
+     "size": 7679520
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.26: Home needs-you list (Done, Later, Undo), side chat folded, deep research, reload after update, updates survive sign-in refresh",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.26"
+  },
+  {
    "created": "2026-11-23T07:39:24+00:00",
    "files": [
     {
@@ -91,27 +108,10 @@
     "renato"
    ],
    "version": "1.20.21"
-  },
-  {
-   "created": "2026-11-23T02:46:59+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.20/qosha-layer.zip",
-     "sha256": "3091384a636c0ba3325fac1db0378f046ff0c33c56e1525893b32e3a58a9fe68",
-     "size": 7634791
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.20: Qosha makes pictures with your connected ChatGPT (or Gemini) and shows them in the chat, saved in your files; no API key",
-   "rings": [
-    "ren-mac"
-   ],
-   "version": "1.20.20"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T07:39:24+00:00",
+ "updated": "2026-11-23T07:49:45+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
