@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T18:53:48+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.28/qosha-layer.zip",
+     "sha256": "462ba71af4225b9e01d376abfd5b9555811c5d8631802a9b10a92ab33432f81f",
+     "size": 25717096
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.28: Portuguese (Brazil), with a few new texts still in English; the Inbox digest clears and has a Got it button; long approval steps shown in full; an easier-to-read email list.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.28"
+  },
+  {
    "created": "2026-11-23T11:36:59+00:00",
    "files": [
     {
@@ -91,29 +108,10 @@
     "ren-mac"
    ],
    "version": "1.20.23"
-  },
-  {
-   "created": "2026-11-23T04:35:17+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.22/qosha-layer.zip",
-     "sha256": "5f56b2dcfa64691967c15eae9d0b042b8a9fd32e63063241d2c8cffc5a313c94",
-     "size": 7645185
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.22: Home's email and meeting peek always opens (the old overlay is gone), with a readable email body: paragraphs, line breaks and links as chips",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
-   ],
-   "version": "1.20.22"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T12:17:29+00:00",
+ "updated": "2026-11-23T18:53:48+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
