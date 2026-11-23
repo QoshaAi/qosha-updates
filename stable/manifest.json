@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T02:34:46+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.19/qosha-layer.zip",
+     "sha256": "56288f66ae50c4c2668232ca0083db1ede84f14d4db107e46138a829f4af01fb",
+     "size": 7618550
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.19: Home with Qosha's chat docked on the right, email and meeting peeks (Send and Reschedule through the Allow card), Cmd/Ctrl+J, a drawer on narrow windows",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.19"
+  },
+  {
    "created": "2026-11-23T01:18:00+00:00",
    "files": [
     {
@@ -95,27 +112,10 @@
     "ren-mac"
    ],
    "version": "1.19.1"
-  },
-  {
-   "created": "2026-11-18T00:23:07+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.19.0/qosha-layer.zip",
-     "sha256": "29a0451b6c65405ec05ff9b20b9f158ffb0c6024696f46cfeaac3e4722a2ec45",
-     "size": 7314256
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Welcome questions on Home, plainer approval cards, image reading by your other AI, and Drive uploads from your computer.",
-   "rings": [
-    "ren-mac"
-   ],
-   "version": "1.19.0"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T01:36:03+00:00",
+ "updated": "2026-11-23T02:34:46+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
