@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T22:47:44+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.32/qosha-layer.zip",
+     "sha256": "079d8409f9fff35bce6966e15ec3774f18a2f26b1bfca1649c92aeff022cbd87",
+     "size": 25737275
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.32: an older chat page that stayed in place after updates on some computers is now brought up to date when Qosha starts.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.32"
+  },
+  {
    "created": "2026-11-23T22:03:53+00:00",
    "files": [
     {
@@ -92,29 +109,10 @@
     "renato"
    ],
    "version": "1.20.27"
-  },
-  {
-   "created": "2026-11-23T07:49:45+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.26/qosha-layer.zip",
-     "sha256": "48192a3cdc6d9e38c23ddfc93b7397d690d605a3c5fe9023e44b255ffafde173",
-     "size": 7679520
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.26: Home needs-you list (Done, Later, Undo), side chat folded, deep research, reload after update, updates survive sign-in refresh",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
-   ],
-   "version": "1.20.26"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T22:03:53+00:00",
+ "updated": "2026-11-23T22:47:44+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
