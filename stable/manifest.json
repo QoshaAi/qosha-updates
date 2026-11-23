@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T05:11:33+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.23/qosha-layer.zip",
+     "sha256": "902f5331983f1dee55f5a98a9b08987236234c6abf2cf71a7dbe2a99f9a3bc41",
+     "size": 7656524
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.23: Qosha can also change a picture you made or saved (from the chat or your files) with your connected ChatGPT (or Gemini)",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.23"
+  },
+  {
    "created": "2026-11-23T04:35:17+00:00",
    "files": [
     {
@@ -93,29 +110,10 @@
     "renato"
    ],
    "version": "1.20.18"
-  },
-  {
-   "created": "2026-11-23T00:00:34+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.17/qosha-layer.zip",
-     "sha256": "bbc2ecd3f6524c14b3d09fcb455d71ae1d8a6a2eae321311d7a4573d6b538059",
-     "size": 7598832
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.17: Qosha's own name, banner and words in the chat terminal and every terminal skin; only Qosha's languages; plain billing wording",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
-   ],
-   "version": "1.20.17"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T04:44:06+00:00",
+ "updated": "2026-11-23T05:11:33+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
