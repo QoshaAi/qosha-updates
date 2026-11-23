@@ -17,7 +17,8 @@
    "notes": "Qosha 1.20.30: fixes Qosha getting stuck while installing an update on some computers.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.30"
   },
@@ -113,7 +114,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T20:43:36+00:00",
+ "updated": "2026-11-23T20:57:42+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
