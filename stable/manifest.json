@@ -16,7 +16,8 @@
    "min_engine": "0.23.2",
    "notes": "Qosha 1.20.22: Home's email and meeting peek always opens (the old overlay is gone), with a readable email body: paragraphs, line breaks and links as chips",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.22"
   },
@@ -113,7 +114,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T04:35:17+00:00",
+ "updated": "2026-11-23T04:41:22+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
