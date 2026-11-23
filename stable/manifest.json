@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T20:06:54+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.29/qosha-layer.zip",
+     "sha256": "ebf1d7f8659bfaf5df5b25fd1ee54a91fef24f959ebeb6ca43bce2114708e436",
+     "size": 25727695
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.29: a calmer side chat with work you can do in place, and Qosha opens promptly in Portuguese.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.29"
+  },
+  {
    "created": "2026-11-23T18:53:48+00:00",
    "files": [
     {
@@ -92,27 +109,10 @@
     "ren-mac"
    ],
    "version": "1.20.24"
-  },
-  {
-   "created": "2026-11-23T05:11:33+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.23/qosha-layer.zip",
-     "sha256": "902f5331983f1dee55f5a98a9b08987236234c6abf2cf71a7dbe2a99f9a3bc41",
-     "size": 7656524
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.23: Qosha can also change a picture you made or saved (from the chat or your files) with your connected ChatGPT (or Gemini)",
-   "rings": [
-    "ren-mac"
-   ],
-   "version": "1.20.23"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T18:59:02+00:00",
+ "updated": "2026-11-23T20:06:54+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
