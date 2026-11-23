@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T20:41:04+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.30/qosha-layer.zip",
+     "sha256": "a1a1cc310a5d4c2e13ab6829eebf083ab9a4244c8be9682a214516e3721bb6c9",
+     "size": 25728194
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.30: fixes Qosha getting stuck while installing an update on some computers.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.30"
+  },
+  {
    "created": "2026-11-23T20:06:54+00:00",
    "files": [
     {
@@ -92,27 +109,10 @@
     "ren-mac"
    ],
    "version": "1.20.25"
-  },
-  {
-   "created": "2026-11-23T07:37:12+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.24/qosha-layer.zip",
-     "sha256": "aa80f44abceb6296e6527527da45434cbd992490d4310532c87a77a1d10c67ea",
-     "size": 7696893
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.24: Home needs-you list (Done, Later, Undo), side chat folded, deep research, Claude via your claude program, reload after update, updates survive sign-in refresh",
-   "rings": [
-    "ren-mac"
-   ],
-   "version": "1.20.24"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T20:06:54+00:00",
+ "updated": "2026-11-23T20:41:04+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
