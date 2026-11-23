@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T07:37:12+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.24/qosha-layer.zip",
+     "sha256": "aa80f44abceb6296e6527527da45434cbd992490d4310532c87a77a1d10c67ea",
+     "size": 7696893
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.24: Home needs-you list (Done, Later, Undo), side chat folded, deep research, Claude via your claude program, reload after update, updates survive sign-in refresh",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.24"
+  },
+  {
    "created": "2026-11-23T05:11:33+00:00",
    "files": [
     {
@@ -91,29 +108,10 @@
     "ren-mac"
    ],
    "version": "1.20.19"
-  },
-  {
-   "created": "2026-11-23T01:18:00+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.18/qosha-layer.zip",
-     "sha256": "3b3338bfa6c33151112d30a89f384fede2ad07d9d84894e306011ced88662d27",
-     "size": 7602128
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.18: Qosha's name in saved chats, file names and the chat terminal's messages; only Qosha's languages, with Qosha's English for anything missing",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
-   ],
-   "version": "1.20.18"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T05:11:33+00:00",
+ "updated": "2026-11-23T07:37:12+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
