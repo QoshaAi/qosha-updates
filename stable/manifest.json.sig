@@ -1,1 +1,1 @@
-{"alg": "ed25519", "key_id": "3b379198e50e171e", "sig": "KBfU6B6iDBNYRzvIWQrjLAecOYLop8YJhrwz73EzXZaeK1BJPw0U4KOrpNAJnmDoeVMTVv4yMDobU3DVg4vIDQ=="}
+{"alg": "ed25519", "key_id": "3b379198e50e171e", "sig": "9qJhkwdK5UtB74rvFmW8BvkMyqI4ji1l+Sfooy7yWC94dOae/xd3tn1RSYziOJK24IMTokFV1IlZsp2PE9foCQ=="}

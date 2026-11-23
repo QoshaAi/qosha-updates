@@ -4,6 +4,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-23T01:18:00+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.18/qosha-layer.zip",
+     "sha256": "3b3338bfa6c33151112d30a89f384fede2ad07d9d84894e306011ced88662d27",
+     "size": 7602128
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.18: Qosha's name in saved chats, file names and the chat terminal's messages; only Qosha's languages, with Qosha's English for anything missing",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.18"
+  },
+  {
    "created": "2026-11-23T00:00:34+00:00",
    "files": [
     {
@@ -96,7 +113,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T00:10:11+00:00",
+ "updated": "2026-11-23T01:18:00+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
