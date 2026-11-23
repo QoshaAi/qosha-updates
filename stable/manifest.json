@@ -17,7 +17,8 @@
    "notes": "Qosha 1.20.17: Qosha's own name, banner and words in the chat terminal and every terminal skin; only Qosha's languages; plain billing wording",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.17"
   },
@@ -95,7 +96,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T00:07:54+00:00",
+ "updated": "2026-11-23T00:10:11+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
