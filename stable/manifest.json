@@ -8,6 +8,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-24T17:19:05+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.39/qosha-layer.zip",
+     "sha256": "8ae350f1783bb74e33b8ec55c4b3000619ab7cf917ea8c47c612f620f630b670",
+     "size": 25801933
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.39: more of the Home chat box in Portuguese, and a new Trust mode in Settings, Approvals: off unless you turn it on, and not yet available on every computer.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.39"
+  },
+  {
    "created": "2026-11-24T16:40:29+00:00",
    "files": [
     {
@@ -102,30 +119,10 @@
     "everyone"
    ],
    "version": "1.20.34"
-  },
-  {
-   "created": "2026-11-23T23:12:02+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.33/qosha-layer.zip",
-     "sha256": "709879b2ecc9333046828475695bf82552dd32675872c65fc0562b289b662b0c",
-     "size": 25737850
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.33: the model list in chat shows every model your AI accounts offer again (Fable included), and an older chat page is brought up to date when Qosha starts.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato",
-    "everyone"
-   ],
-   "version": "1.20.33"
   }
  ],
  "schema": 1,
- "updated": "2026-11-24T16:42:09+00:00",
+ "updated": "2026-11-24T17:19:05+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
