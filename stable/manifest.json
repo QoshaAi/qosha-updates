@@ -20,7 +20,8 @@
    "min_engine": "0.23.2",
    "notes": "Qosha 1.20.36: a calmer, easier-to-read chat box on Home. Qosha's own files that an earlier reinstall left on an older version are brought up to date by themselves.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.36"
   },
@@ -118,7 +119,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-24T14:13:56+00:00",
+ "updated": "2026-11-24T14:21:57+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
