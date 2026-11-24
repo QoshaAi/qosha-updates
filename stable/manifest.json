@@ -37,7 +37,8 @@
    "min_engine": "0.23.2",
    "notes": "Qosha 1.20.35: after an earlier reinstall, some of Qosha's own files could stay on an older version; they are now brought up to date by themselves, and your own changes are kept.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.35"
   },
@@ -117,7 +118,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-24T14:13:07+00:00",
+ "updated": "2026-11-24T14:13:56+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
