@@ -8,6 +8,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-24T16:14:42+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.37/qosha-layer.zip",
+     "sha256": "548ce010c97b5cecbad8e07c0a0dbddf2659cf3075db435c58c3e9967fadd877",
+     "size": 25788831
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.37: the Calendar's Join button on Home is whole and lined up again.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.37"
+  },
+  {
    "created": "2026-11-24T14:13:07+00:00",
    "files": [
     {
@@ -101,27 +118,10 @@
     "ren-mac"
    ],
    "version": "1.20.32"
-  },
-  {
-   "created": "2026-11-23T22:03:53+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.31/qosha-layer.zip",
-     "sha256": "0677d0851df631650aaf13861c655290f632b86ad3a188d9c4737c7590cb0a7c",
-     "size": 25736853
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.31: on some computers an older chat page stayed in place after updates; it is now brought up to date.",
-   "rings": [
-    "ren-mac"
-   ],
-   "version": "1.20.31"
   }
  ],
  "schema": 1,
- "updated": "2026-11-24T14:25:38+00:00",
+ "updated": "2026-11-24T16:14:42+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
