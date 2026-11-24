@@ -20,7 +20,8 @@
    "min_engine": "0.23.2",
    "notes": "Qosha 1.20.38: more of the Home chat box in Portuguese, and a new Trust mode in Settings, Approvals: off unless you turn it on, and not yet available on every computer.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.38"
   },
@@ -124,7 +125,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-24T16:40:29+00:00",
+ "updated": "2026-11-24T16:42:09+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
