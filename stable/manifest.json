@@ -21,7 +21,9 @@
    "notes": "Qosha 1.20.34: a cleaner chat panel, a wider email reader on Home, a plain Connect button when Google needs connecting again, and setup that can't get stuck.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato",
+    "everyone"
    ],
    "version": "1.20.34"
   },
@@ -117,7 +119,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-24T04:17:41+00:00",
+ "updated": "2026-11-24T05:00:30+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
