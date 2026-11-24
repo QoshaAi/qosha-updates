@@ -8,6 +8,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-24T04:13:31+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.34/qosha-layer.zip",
+     "sha256": "108f674065270a1dbeba8d8e518ae0a750cc741fe0aa6114cdbc904caf9ab713",
+     "size": 25741402
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.34: a cleaner chat panel, a wider email reader on Home, a plain Connect button when Google needs connecting again, and setup that can't get stuck.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.34"
+  },
+  {
    "created": "2026-11-23T23:12:02+00:00",
    "files": [
     {
@@ -96,28 +113,10 @@
     "ren-mac"
    ],
    "version": "1.20.29"
-  },
-  {
-   "created": "2026-11-23T18:53:48+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.28/qosha-layer.zip",
-     "sha256": "462ba71af4225b9e01d376abfd5b9555811c5d8631802a9b10a92ab33432f81f",
-     "size": 25717096
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.28: Portuguese (Brazil), with a few new texts still in English; the Inbox digest clears and has a Got it button; long approval steps shown in full; an easier-to-read email list.",
-   "rings": [
-    "ren-mac",
-    "test-pc"
-   ],
-   "version": "1.20.28"
   }
  ],
  "schema": 1,
- "updated": "2026-11-23T23:30:12+00:00",
+ "updated": "2026-11-24T04:13:31+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
