@@ -8,6 +8,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-24T14:13:07+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.36/qosha-layer.zip",
+     "sha256": "8a57bb646a0fbb49a8104f95ceef55a1263879d6c9725a6677235274bcbf49d2",
+     "size": 25788195
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.36: a calmer, easier-to-read chat box on Home. Qosha's own files that an earlier reinstall left on an older version are brought up to date by themselves.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.36"
+  },
+  {
    "created": "2026-11-24T14:07:14+00:00",
    "files": [
     {
@@ -97,29 +114,10 @@
     "ren-mac"
    ],
    "version": "1.20.31"
-  },
-  {
-   "created": "2026-11-23T20:41:04+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.30/qosha-layer.zip",
-     "sha256": "a1a1cc310a5d4c2e13ab6829eebf083ab9a4244c8be9682a214516e3721bb6c9",
-     "size": 25728194
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.30: fixes Qosha getting stuck while installing an update on some computers.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato"
-   ],
-   "version": "1.20.30"
   }
  ],
  "schema": 1,
- "updated": "2026-11-24T14:07:14+00:00",
+ "updated": "2026-11-24T14:13:07+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
