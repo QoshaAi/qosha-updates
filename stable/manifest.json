@@ -8,6 +8,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-24T16:40:29+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.38/qosha-layer.zip",
+     "sha256": "94dc318a25c483d30ed4b69ad0fd41daf7272ebc114b78a32a02f36e52d7bfee",
+     "size": 25800463
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha 1.20.38: more of the Home chat box in Portuguese, and a new Trust mode in Settings, Approvals: off unless you turn it on, and not yet available on every computer.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.38"
+  },
+  {
    "created": "2026-11-24T16:14:42+00:00",
    "files": [
     {
@@ -104,27 +121,10 @@
     "everyone"
    ],
    "version": "1.20.33"
-  },
-  {
-   "created": "2026-11-23T22:47:44+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.32/qosha-layer.zip",
-     "sha256": "079d8409f9fff35bce6966e15ec3774f18a2f26b1bfca1649c92aeff022cbd87",
-     "size": 25737275
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.32: an older chat page that stayed in place after updates on some computers is now brought up to date when Qosha starts.",
-   "rings": [
-    "ren-mac"
-   ],
-   "version": "1.20.32"
   }
  ],
  "schema": 1,
- "updated": "2026-11-24T16:22:54+00:00",
+ "updated": "2026-11-24T16:40:29+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
