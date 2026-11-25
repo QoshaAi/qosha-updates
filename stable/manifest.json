@@ -22,7 +22,8 @@
    "notes": "Right-click Paste works again in the Qosha app, approvals on Home are clearer, and when the AI declines or Google's page is waiting, Qosha says plainly what to do.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.44"
   },
@@ -122,7 +123,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-25T19:07:07+00:00",
+ "updated": "2026-11-25T21:55:27+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
