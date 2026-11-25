@@ -8,6 +8,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-25T15:43:41+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.43/qosha-layer.zip",
+     "sha256": "bde25d83039895e37f477e498160c705f2fbb9c9d9c8bb577fc4cffe9d5a84c4",
+     "size": 25851987
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Updates no longer fail when a laptop goes to sleep partway through; the computer stays awake while Qosha updates.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.43"
+  },
+  {
    "created": "2026-11-25T05:08:04+00:00",
    "files": [
     {
@@ -102,28 +119,10 @@
     "everyone"
    ],
    "version": "1.20.36"
-  },
-  {
-   "created": "2026-11-24T14:07:14+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.35/qosha-layer.zip",
-     "sha256": "5ef8238a485a6da47112811c9949ad73b6d07d4d3e9d580184f19a8abed0ea7a",
-     "size": 25787853
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.35: after an earlier reinstall, some of Qosha's own files could stay on an older version; they are now brought up to date by themselves, and your own changes are kept.",
-   "rings": [
-    "ren-mac",
-    "test-pc"
-   ],
-   "version": "1.20.35"
   }
  ],
  "schema": 1,
- "updated": "2026-11-25T05:14:22+00:00",
+ "updated": "2026-11-25T15:43:41+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
