@@ -20,7 +20,8 @@
    "min_engine": "0.23.2",
    "notes": "Groundwork for a separate approval window (switched off). No change to how Qosha works today.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.42"
   },
@@ -122,7 +123,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-25T05:08:04+00:00",
+ "updated": "2026-11-25T05:14:22+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
