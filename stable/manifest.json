@@ -9,6 +9,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-25T18:56:19+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.44/qosha-layer.zip",
+     "sha256": "ac9fd53e5a7aedb5e1573a5b34ad086686dd3f231aa6f89d0fdc7f2dceca5229",
+     "size": 25858870
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Right-click Paste works again in the Qosha app, approvals on Home are clearer, and when the AI declines or Google's page is waiting, Qosha says plainly what to do.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.44"
+  },
+  {
    "created": "2026-11-25T15:43:41+00:00",
    "files": [
     {
@@ -101,30 +118,10 @@
     "everyone"
    ],
    "version": "1.20.37"
-  },
-  {
-   "created": "2026-11-24T14:13:07+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.36/qosha-layer.zip",
-     "sha256": "8a57bb646a0fbb49a8104f95ceef55a1263879d6c9725a6677235274bcbf49d2",
-     "size": 25788195
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.36: a calmer, easier-to-read chat box on Home. Qosha's own files that an earlier reinstall left on an older version are brought up to date by themselves.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato",
-    "everyone"
-   ],
-   "version": "1.20.36"
   }
  ],
  "schema": 1,
- "updated": "2026-11-25T16:48:30+00:00",
+ "updated": "2026-11-25T18:56:19+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
