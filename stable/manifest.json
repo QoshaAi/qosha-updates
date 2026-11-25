@@ -8,6 +8,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-25T05:08:04+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.42/qosha-layer.zip",
+     "sha256": "28924cfb26fab4afdb81d4ed73e1ece6f4961ab75cc32bfcaed5184cf053eebb",
+     "size": 25850409
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Groundwork for a separate approval window (switched off). No change to how Qosha works today.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.42"
+  },
+  {
    "created": "2026-11-24T17:19:05+00:00",
    "files": [
     {
@@ -102,30 +119,10 @@
     "test-pc"
    ],
    "version": "1.20.35"
-  },
-  {
-   "created": "2026-11-24T04:13:31+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.34/qosha-layer.zip",
-     "sha256": "108f674065270a1dbeba8d8e518ae0a750cc741fe0aa6114cdbc904caf9ab713",
-     "size": 25741402
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.34: a cleaner chat panel, a wider email reader on Home, a plain Connect button when Google needs connecting again, and setup that can't get stuck.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato",
-    "everyone"
-   ],
-   "version": "1.20.34"
   }
  ],
  "schema": 1,
- "updated": "2026-11-25T05:00:35+00:00",
+ "updated": "2026-11-25T05:08:04+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
