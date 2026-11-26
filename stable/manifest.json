@@ -9,6 +9,24 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-26T11:49:40+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.49/qosha-layer.zip",
+     "sha256": "55adcc42901277d92619719125be94fb62bd1cb4fd3838eaa1d09dfe446ac206",
+     "size": 25875102
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha can answer calendar invites for you. It shows the event, time and organizer and asks first; if it can't tell which event, it says so.",
+   "rings": [
+    "ren-mac",
+    "test-pc"
+   ],
+   "version": "1.20.49"
+  },
+  {
    "created": "2026-11-26T10:29:22+00:00",
    "files": [
     {
@@ -105,28 +123,10 @@
     "everyone"
    ],
    "version": "1.20.44"
-  },
-  {
-   "created": "2026-11-25T15:43:41+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.43/qosha-layer.zip",
-     "sha256": "bde25d83039895e37f477e498160c705f2fbb9c9d9c8bb577fc4cffe9d5a84c4",
-     "size": 25851987
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Updates no longer fail when a laptop goes to sleep partway through; the computer stays awake while Qosha updates.",
-   "rings": [
-    "ren-mac",
-    "test-pc"
-   ],
-   "version": "1.20.43"
   }
  ],
  "schema": 1,
- "updated": "2026-11-26T10:29:22+00:00",
+ "updated": "2026-11-26T11:49:40+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
