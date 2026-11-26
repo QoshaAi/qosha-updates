@@ -23,7 +23,8 @@
    "rings": [
     "ren-mac",
     "test-pc",
-    "renato"
+    "renato",
+    "everyone"
    ],
    "version": "1.20.47"
   },
@@ -125,7 +126,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-26T07:27:29+00:00",
+ "updated": "2026-11-26T07:27:42+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
