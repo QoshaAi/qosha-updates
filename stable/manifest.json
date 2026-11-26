@@ -22,7 +22,8 @@
    "notes": "Qosha can answer calendar invites for you. It shows the event, time and organizer and asks first; if it can't tell which event, it says so.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.49"
   },
@@ -126,7 +127,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-26T11:49:40+00:00",
+ "updated": "2026-11-26T18:00:14+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
