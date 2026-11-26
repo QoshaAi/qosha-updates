@@ -9,6 +9,24 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-26T23:06:56+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.50/qosha-layer.zip",
+     "sha256": "2321fefbddd4f3a8706b7c41704cf407002d4c98a74199bf471b9bfc3e18992f",
+     "size": 25876681
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Calendar reads always use the Google account you connected, so Qosha no longer asks for your email address. The chat box always says Ask Qosha.",
+   "rings": [
+    "ren-mac",
+    "test-pc"
+   ],
+   "version": "1.20.50"
+  },
+  {
    "created": "2026-11-26T11:49:40+00:00",
    "files": [
     {
@@ -105,30 +123,10 @@
     "everyone"
    ],
    "version": "1.20.45"
-  },
-  {
-   "created": "2026-11-25T18:56:19+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.44/qosha-layer.zip",
-     "sha256": "ac9fd53e5a7aedb5e1573a5b34ad086686dd3f231aa6f89d0fdc7f2dceca5229",
-     "size": 25858870
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Right-click Paste works again in the Qosha app, approvals on Home are clearer, and when the AI declines or Google's page is waiting, Qosha says plainly what to do.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato",
-    "everyone"
-   ],
-   "version": "1.20.44"
   }
  ],
  "schema": 1,
- "updated": "2026-11-26T18:00:26+00:00",
+ "updated": "2026-11-26T23:06:56+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
