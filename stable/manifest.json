@@ -9,6 +9,24 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-26T06:32:43+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.47/qosha-layer.zip",
+     "sha256": "5c3330ac42a9e933dc477e0c7a78c974cc104127ecc5a076f2f417b207fa1c81",
+     "size": 25871744
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha now looks for updates every few minutes instead of once a day, so fixes reach you the same day. It still installs only when you're not using it.",
+   "rings": [
+    "ren-mac",
+    "test-pc"
+   ],
+   "version": "1.20.47"
+  },
+  {
    "created": "2026-11-26T03:01:49+00:00",
    "files": [
     {
@@ -103,30 +121,10 @@
     "test-pc"
    ],
    "version": "1.20.42"
-  },
-  {
-   "created": "2026-11-24T17:19:05+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.39/qosha-layer.zip",
-     "sha256": "8ae350f1783bb74e33b8ec55c4b3000619ab7cf917ea8c47c612f620f630b670",
-     "size": 25801933
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.39: more of the Home chat box in Portuguese, and a new Trust mode in Settings, Approvals: off unless you turn it on, and not yet available on every computer.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato",
-    "everyone"
-   ],
-   "version": "1.20.39"
   }
  ],
  "schema": 1,
- "updated": "2026-11-26T06:01:30+00:00",
+ "updated": "2026-11-26T06:32:43+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
