@@ -9,6 +9,24 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-26T03:01:49+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.46/qosha-layer.zip",
+     "sha256": "d0879e26710dff25ad793397eb8574139874fac2d67c7c2002f7ddfccf66c5aa",
+     "size": 25870582
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Disconnecting Google in Connections works again and always removes the account it shows; switching or cancelling a Google sign-in can no longer mix up two accounts.",
+   "rings": [
+    "ren-mac",
+    "test-pc"
+   ],
+   "version": "1.20.46"
+  },
+  {
    "created": "2026-11-26T01:50:09+00:00",
    "files": [
     {
@@ -103,28 +121,10 @@
     "everyone"
    ],
    "version": "1.20.39"
-  },
-  {
-   "created": "2026-11-24T16:40:29+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.38/qosha-layer.zip",
-     "sha256": "94dc318a25c483d30ed4b69ad0fd41daf7272ebc114b78a32a02f36e52d7bfee",
-     "size": 25800463
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.38: more of the Home chat box in Portuguese, and a new Trust mode in Settings, Approvals: off unless you turn it on, and not yet available on every computer.",
-   "rings": [
-    "ren-mac",
-    "test-pc"
-   ],
-   "version": "1.20.38"
   }
  ],
  "schema": 1,
- "updated": "2026-11-26T02:30:55+00:00",
+ "updated": "2026-11-26T03:01:49+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
