@@ -9,6 +9,24 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-26T10:29:22+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.48/qosha-layer.zip",
+     "sha256": "65f6f268347df779e7759aaca45b5182f696ae0a2769af2ad69ac33cfaed6f19",
+     "size": 25874592
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Qosha can now accept, decline or say maybe to calendar invites for you. It shows the event, time and organizer first and asks before answering.",
+   "rings": [
+    "ren-mac",
+    "test-pc"
+   ],
+   "version": "1.20.48"
+  },
+  {
    "created": "2026-11-26T06:32:43+00:00",
    "files": [
     {
@@ -105,28 +123,10 @@
     "test-pc"
    ],
    "version": "1.20.43"
-  },
-  {
-   "created": "2026-11-25T05:08:04+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.42/qosha-layer.zip",
-     "sha256": "28924cfb26fab4afdb81d4ed73e1ece6f4961ab75cc32bfcaed5184cf053eebb",
-     "size": 25850409
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Groundwork for a separate approval window (switched off). No change to how Qosha works today.",
-   "rings": [
-    "ren-mac",
-    "test-pc"
-   ],
-   "version": "1.20.42"
   }
  ],
  "schema": 1,
- "updated": "2026-11-26T07:27:42+00:00",
+ "updated": "2026-11-26T10:29:22+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
