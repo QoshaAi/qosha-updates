@@ -9,6 +9,24 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-26T01:50:09+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.45/qosha-layer.zip",
+     "sha256": "ddf6049774c261b61b06af79b0e71872fd79ab529ebce2926373e8a226f86dab",
+     "size": 25865450
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Approval cards in Portuguese are now fully in Portuguese, and an update no longer counts as failed when a scheduled chat starts while it runs.",
+   "rings": [
+    "ren-mac",
+    "test-pc"
+   ],
+   "version": "1.20.45"
+  },
+  {
    "created": "2026-11-25T18:56:19+00:00",
    "files": [
     {
@@ -101,30 +119,10 @@
     "test-pc"
    ],
    "version": "1.20.38"
-  },
-  {
-   "created": "2026-11-24T16:14:42+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.37/qosha-layer.zip",
-     "sha256": "548ce010c97b5cecbad8e07c0a0dbddf2659cf3075db435c58c3e9967fadd877",
-     "size": 25788831
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha 1.20.37: the Calendar's Join button on Home is whole and lined up again.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato",
-    "everyone"
-   ],
-   "version": "1.20.37"
   }
  ],
  "schema": 1,
- "updated": "2026-11-25T23:10:00+00:00",
+ "updated": "2026-11-26T01:50:09+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
