@@ -22,7 +22,8 @@
    "notes": "Disconnecting Google in Connections works again and always removes the account it shows; switching or cancelling a Google sign-in can no longer mix up two accounts.",
    "rings": [
     "ren-mac",
-    "test-pc"
+    "test-pc",
+    "renato"
    ],
    "version": "1.20.46"
   },
@@ -124,7 +125,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-26T03:01:49+00:00",
+ "updated": "2026-11-26T06:01:09+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
