@@ -9,6 +9,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-27T23:45:56+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.50.5/qosha-layer.zip",
+     "sha256": "ec08994a20f3d658e2f97888365414db894cf2a58c0b22d95cf87a20b9ca4711",
+     "size": 26044655
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Test version for the test PC: Qosha accepts its Chrome Web Store copy; a calmer top row in the side chat; Google permission sealed to this computer.",
+   "rings": [
+    "test-pc"
+   ],
+   "version": "1.20.50.5"
+  },
+  {
    "created": "2026-11-27T23:27:13+00:00",
    "files": [
     {
@@ -97,30 +114,10 @@
     "everyone"
    ],
    "version": "1.20.50"
-  },
-  {
-   "created": "2026-11-26T11:49:40+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.49/qosha-layer.zip",
-     "sha256": "55adcc42901277d92619719125be94fb62bd1cb4fd3838eaa1d09dfe446ac206",
-     "size": 25875102
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha can answer calendar invites for you. It shows the event, time and organizer and asks first; if it can't tell which event, it says so.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato",
-    "everyone"
-   ],
-   "version": "1.20.49"
   }
  ],
  "schema": 1,
- "updated": "2026-11-27T23:27:13+00:00",
+ "updated": "2026-11-27T23:45:56+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
