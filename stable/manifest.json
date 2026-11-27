@@ -9,6 +9,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-27T23:27:13+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.50.4/qosha-layer.zip",
+     "sha256": "7936540e5e591701cbfad0184e2abf6f9463b8a483a3c81a1906dd47d83351a2",
+     "size": 26044652
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Test version for your Mac: Qosha accepts its Chrome Web Store copy; a calmer top row in the side chat; Google permission sealed to this computer.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.50.4"
+  },
+  {
    "created": "2026-11-27T21:35:25+00:00",
    "files": [
     {
@@ -100,28 +117,10 @@
     "everyone"
    ],
    "version": "1.20.49"
-  },
-  {
-   "created": "2026-11-26T10:29:22+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.48/qosha-layer.zip",
-     "sha256": "65f6f268347df779e7759aaca45b5182f696ae0a2769af2ad69ac33cfaed6f19",
-     "size": 25874592
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Qosha can now accept, decline or say maybe to calendar invites for you. It shows the event, time and organizer first and asks before answering.",
-   "rings": [
-    "ren-mac",
-    "test-pc"
-   ],
-   "version": "1.20.48"
   }
  ],
  "schema": 1,
- "updated": "2026-11-27T21:35:25+00:00",
+ "updated": "2026-11-27T23:27:13+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
