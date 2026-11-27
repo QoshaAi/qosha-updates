@@ -21,7 +21,8 @@
    "min_engine": "0.23.2",
    "notes": "Test version: Gemini is offered as main assistant from the first start after an update; Google sign-ins renew safely without switching accounts.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.50.2"
   },
@@ -123,7 +124,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-27T20:25:15+00:00",
+ "updated": "2026-11-27T20:28:21+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
