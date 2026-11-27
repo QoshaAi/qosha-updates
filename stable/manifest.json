@@ -9,6 +9,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-27T16:45:49+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.50.1/qosha-layer.zip",
+     "sha256": "5421c84835b083369379b40628d875944ff28cf9de2422f5c8185137c79e4712",
+     "size": 26027845
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Test version: Qosha in your own Chrome (guided setup), Google permission kept, answer invites from Home, real chat titles, Gemini as main assistant, newest ChatGPT default.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.50.1"
+  },
+  {
    "created": "2026-11-26T23:06:56+00:00",
    "files": [
     {
@@ -105,30 +122,10 @@
     "everyone"
    ],
    "version": "1.20.46"
-  },
-  {
-   "created": "2026-11-26T01:50:09+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.45/qosha-layer.zip",
-     "sha256": "ddf6049774c261b61b06af79b0e71872fd79ab529ebce2926373e8a226f86dab",
-     "size": 25865450
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Approval cards in Portuguese are now fully in Portuguese, and an update no longer counts as failed when a scheduled chat starts while it runs.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato",
-    "everyone"
-   ],
-   "version": "1.20.45"
   }
  ],
  "schema": 1,
- "updated": "2026-11-27T15:12:31+00:00",
+ "updated": "2026-11-27T16:45:49+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
