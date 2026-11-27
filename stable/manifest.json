@@ -128,7 +128,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-27T15:10:32+00:00",
+ "updated": "2026-11-27T15:12:31+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
