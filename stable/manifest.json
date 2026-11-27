@@ -9,6 +9,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-27T20:25:15+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.50.2/qosha-layer.zip",
+     "sha256": "45815a90cc1935101f5be222ce0c1123eb5d787b4b1fc066c1dc1d3205adbbd9",
+     "size": 26034873
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Test version: Gemini is offered as main assistant from the first start after an update; Google sign-ins renew safely without switching accounts.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.50.2"
+  },
+  {
    "created": "2026-11-27T16:45:49+00:00",
    "files": [
     {
@@ -103,30 +120,10 @@
     "everyone"
    ],
    "version": "1.20.47"
-  },
-  {
-   "created": "2026-11-26T03:01:49+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.46/qosha-layer.zip",
-     "sha256": "d0879e26710dff25ad793397eb8574139874fac2d67c7c2002f7ddfccf66c5aa",
-     "size": 25870582
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Disconnecting Google in Connections works again and always removes the account it shows; switching or cancelling a Google sign-in can no longer mix up two accounts.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato",
-    "everyone"
-   ],
-   "version": "1.20.46"
   }
  ],
  "schema": 1,
- "updated": "2026-11-27T19:39:48+00:00",
+ "updated": "2026-11-27T20:25:15+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
