@@ -9,6 +9,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-28T01:41:47+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.51/qosha-layer.zip",
+     "sha256": "f98e8d654a8862bc883b3c8daa29327a34dabca2d83e9dbc6862cddb4e8d40d9",
+     "size": 26044654
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Use Qosha in your own Chrome (guided setup), Google permission kept and sealed to this computer, answer invites from Home, real chat titles, Gemini as main assistant.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.51"
+  },
+  {
    "created": "2026-11-27T23:45:56+00:00",
    "files": [
     {
@@ -94,30 +111,10 @@
     "test-pc"
    ],
    "version": "1.20.50.1"
-  },
-  {
-   "created": "2026-11-26T23:06:56+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.50/qosha-layer.zip",
-     "sha256": "2321fefbddd4f3a8706b7c41704cf407002d4c98a74199bf471b9bfc3e18992f",
-     "size": 25876681
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Calendar reads always use the Google account you connected, so Qosha no longer asks for your email address. The chat box always says Ask Qosha.",
-   "rings": [
-    "ren-mac",
-    "test-pc",
-    "renato",
-    "everyone"
-   ],
-   "version": "1.20.50"
   }
  ],
  "schema": 1,
- "updated": "2026-11-27T23:45:56+00:00",
+ "updated": "2026-11-28T01:41:47+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
