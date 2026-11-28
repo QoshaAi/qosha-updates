@@ -19,7 +19,8 @@
    "min_engine": "0.23.2",
    "notes": "Fixes approval cards that stayed frozen after you allowed or declined a step: each card now shows how it ended, also after a lost connection.",
    "rings": [
-    "ren-mac"
+    "ren-mac",
+    "test-pc"
    ],
    "version": "1.20.52"
   },
@@ -111,7 +112,7 @@
   }
  ],
  "schema": 1,
- "updated": "2026-11-28T05:59:29+00:00",
+ "updated": "2026-11-28T06:01:08+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
