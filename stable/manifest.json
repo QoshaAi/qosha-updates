@@ -7,6 +7,23 @@
  "product": "qosha",
  "releases": [
   {
+   "created": "2026-11-28T05:59:29+00:00",
+   "files": [
+    {
+     "name": "qosha-layer.zip",
+     "path": "files/1.20.52/qosha-layer.zip",
+     "sha256": "46904e042e6e730722daf4a823f829c22ba7ff94c59d17b84b7b523f4f344cde",
+     "size": 26049650
+    }
+   ],
+   "min_engine": "0.23.2",
+   "notes": "Fixes approval cards that stayed frozen after you allowed or declined a step: each card now shows how it ended, also after a lost connection.",
+   "rings": [
+    "ren-mac"
+   ],
+   "version": "1.20.52"
+  },
+  {
    "created": "2026-11-28T01:41:47+00:00",
    "files": [
     {
@@ -91,28 +108,10 @@
     "test-pc"
    ],
    "version": "1.20.50.2"
-  },
-  {
-   "created": "2026-11-27T16:45:49+00:00",
-   "files": [
-    {
-     "name": "qosha-layer.zip",
-     "path": "files/1.20.50.1/qosha-layer.zip",
-     "sha256": "5421c84835b083369379b40628d875944ff28cf9de2422f5c8185137c79e4712",
-     "size": 26027845
-    }
-   ],
-   "min_engine": "0.23.2",
-   "notes": "Test version: Qosha in your own Chrome (guided setup), Google permission kept, answer invites from Home, real chat titles, Gemini as main assistant, newest ChatGPT default.",
-   "rings": [
-    "ren-mac",
-    "test-pc"
-   ],
-   "version": "1.20.50.1"
   }
  ],
  "schema": 1,
- "updated": "2026-11-28T01:49:43+00:00",
+ "updated": "2026-11-28T05:59:29+00:00",
  "upgrade": {
   "upgrade-qosha.ps1": {
    "path": "upgrade/upgrade-qosha.ps1",
